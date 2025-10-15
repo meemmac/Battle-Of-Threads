@@ -62,3 +62,25 @@ Sometimes, a clan does work that belongs to another:
 ```bash
 chmod +x battle.sh
 ./battle.sh /path/to/folder1 /path/to/folder2 ...
+```
+## Preview:
+
+- Starting the script
+
+<img width="800" height="400" alt="VirtualBox_kali-linux-2025 2-virtualbox-amd64_23_09_2025_21_12_11" src="https://github.com/user-attachments/assets/04559fb5-e7db-47c4-9b1c-851e59f9d607" />
+
+- Rules
+  
+<img width="800" height="400" alt="VirtualBox_kali-linux-2025 2-virtualbox-amd64_23_09_2025_21_25_13" src="https://github.com/user-attachments/assets/c4b125a8-d323-4a41-a58c-dce3d981a3a2" />
+
+- Process(battle) execution
+  
+<img width="800" height="400" alt="VirtualBox_kali-linux-2025 2-virtualbox-amd64_23_09_2025_21_19_18" src="https://github.com/user-attachments/assets/57d74ed0-1af9-47be-9b33-358c0defe626" />
+
+- Summary of the execution
+
+<img width="800" height="400" alt="VirtualBox_kali-linux-2025 2-virtualbox-amd64_23_09_2025_21_19_54" src="https://github.com/user-attachments/assets/a8885a20-c537-437e-8d15-62bc7181c358" />
+
+
+
+
