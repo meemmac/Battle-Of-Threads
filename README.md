@@ -66,14 +66,14 @@ chmod +x battle.sh
 You can execute scripts to create temporary directory with proper collision factors
 
 ```bash
-chmod +x col2.sh
-./col2.sh
+chmod +x col3.sh
+./col3.sh
 ```
 and then
 
 ```bash
 chmod +x battle.sh
-./battle.sh /path/to/directory_given_by_col2.sh
+./battle.sh /path/to/directory_given_by_col3.sh
 ```
 
 ## Preview:
