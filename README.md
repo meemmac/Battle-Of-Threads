@@ -63,6 +63,19 @@ Sometimes, a clan does work that belongs to another:
 chmod +x battle.sh
 ./battle.sh /path/to/folder1 /path/to/folder2 ...
 ```
+You can execute scripts to create temporary directory with proper collision factors
+
+```bash
+chmod +x col2.sh
+./col2.sh
+```
+and then
+
+```bash
+chmod +x battle.sh
+./battle.sh /path/to/directory_given_by_col2.sh
+```
+
 ## Preview:
 
 - Starting the script
